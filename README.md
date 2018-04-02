@@ -10,7 +10,7 @@ A font package for pfUI, providing additional fonts from the google font project
 5. Restart Wow
 
 ## Preview
-![fonts](https://i.imgur.com/eRTCSia.png)
+![thumbnails](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI-fonts/thumbnails.png)
 
 ## Fonts
 * [BalooBhaina](https://fonts.google.com/specimen/Baloo+Bhaina)
