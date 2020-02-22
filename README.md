@@ -2,11 +2,18 @@
 
 A font package for pfUI, providing additional fonts from the google font project.
 
-## Installation
+## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/shagu/pfUI-fonts/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "pfUI-fonts-master" to "pfUI-fonts"
 4. Copy "pfUI-fonts" into Wow-Directory\Interface\AddOns
+5. Restart Wow
+
+## Installation (The Burning Crusade, 2.4.3)
+1. Download **[Latest Version](https://github.com/shagu/pfUI-fonts/archive/master.zip)**
+2. Unpack the Zip file
+3. Rename the folder "pfUI-fonts-master" to "pfUI-fonts-tbc"
+4. Copy "pfUI-fonts-tbc" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 ## Preview
